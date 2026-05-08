@@ -48,7 +48,7 @@ Our app helps them remember, track, and feel supported with a friendly and fun e
 ## Team
 - Amani Sammar
 - Majd Mansour
--Jamila Yassin
+- Jamila Yassin
 # pillcare
 
 A new Flutter project.
