@@ -1,5 +1,4 @@
-# PillCare – Medicine Guardians
-## Android Studio & Flutter based application
+# PillCare – Android Studio & Flutter based application
 ## Motivation / Problem
 Many people, especially elderly ones, and chronic patients forget to take their medicines on time.
 This can cause health problems and stress for both the patient and their family.
